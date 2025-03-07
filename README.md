@@ -6,4 +6,4 @@ Name: AJ Young, Role:  backend
 
 Name: Sonia Liao , Role: whatever end needs me
 
-Name: , Role:  
+Name: Phuong Le, Role: frontend
