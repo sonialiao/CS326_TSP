@@ -2,7 +2,7 @@
 
 Name: Joud Zamzami, Role: frontend 
 
-Name: , Role:  
+Name: AJ Young, Role:  backend
 
 Name: , Role:  
 
