@@ -1,6 +1,6 @@
 # CS326_TSP
 
-Name: Joud zamzami, Role: frontend 
+Name: Joud Zamzami, Role: frontend 
 
 Name: , Role:  
 
