@@ -4,6 +4,6 @@ Name: Joud Zamzami, Role: frontend
 
 Name: AJ Young, Role:  backend
 
-Name: , Role:  
+Name: Sonia Liao , Role: whatever end needs me
 
 Name: , Role:  
