@@ -7,3 +7,5 @@ Name: AJ Young, Role:  backend
 Name: Sonia Liao , Role: whatever end needs me
 
 Name: Phuong Le, Role: frontend
+
+Problem: Campus Big, Legs Short, Wind Strong 
