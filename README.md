@@ -21,3 +21,4 @@ If we have more time, we can try to pull data from SPIRE so that you can input c
 
 Why This Project?
 We wanted to make a routing project of some sort because we did some work with TSP and how to efficiently solve NP problems when we did CS311.
+The UMass campus is large and sometimes you don’t know if it’ll be more efficient to go print at the library before or after your CS class at Goessman, or if going to lunch after your second class helps you avoid the Worcester rush. Sometimes you just want to minimize time spent being blown sideways by the wind. That’s where this webpage will be helpful.
