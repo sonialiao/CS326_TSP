@@ -18,3 +18,6 @@ Solution: We would like to build a web application that allows you to select loc
 Key Features: The background server will be able to look up the location of buildings and run a Traveling Salesman solver of some sort to return a route.
 Users will be able to add and remove available locations to select
 If we have more time, we can try to pull data from SPIRE so that you can input classes instead of locations.
+
+Why This Project?
+We wanted to make a routing project of some sort because we did some work with TSP and how to efficiently solve NP problems when we did CS311.
